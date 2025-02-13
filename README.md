@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: Passionate Full Stack Software Engineer with expertise in React, Node.js, TypeScript, C++, and scalable system design. I thrive in high-pressure environments, tackling complex engineering challenges and building high-performance applications.
-<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<br> <br> 👯 I’m looking to collaborate on: Innovative projects in full-stack development, cloud computing, distributed systems, and AI-driven applications. <br><br>🤝 I’m looking for help with: Connecting with like-minded engineers, mentors, and industry leaders to grow, learn, and explore new opportunities. <br><br>🌱 I’m currently learning: Advanced systems design, large-scale distributed systems, and deep-diving into cloud-native architectures and AI related Technologies<br><br> 💬 Ask me about: Building scalable web apps, performance optimization, API development, cloud computing, and strategies for handling high-pressure situations. <br> <br>⚡ Fun fact: I love solving complex problems, but when I’m not coding, you’ll find me exploring new tech trends, gaming, or diving into outdoor adventures!
 
 
 ## 🌐 Socials:
