@@ -47,6 +47,21 @@
   </b>
 </h3>
 
+<!-- Spotify Now Playing -->
+<div align="center">
+  <h2>🎧 Now Playing on Spotify</h2>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31vliilzkhbpn5icvhl7ssnxodde&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</div>
+
+<!-- Meme or GIF Section -->
+<div align="center">
+  <h2>😄 A little dev humor never hurts</h2>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding humor" />
+  <br/>
+  <em>“It works on my machine...” — Every developer ever.</em>
+</div>
+
+<!-- Contact Section -->
 <div align="center">
   <h2>🔗 Let's Connect</h2>
   <p>
@@ -61,3 +76,67 @@
     </a>
   </p>
 </div>
+
+<!-- Skills Section -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+</div>
+
+<div align="justify">
+<table>
+  <tr>
+    <b>Languages</b><br/>
+    ![C](https://img.shields.io/badge/-C-000?&style=for-the-badge&logo=C)
+    ![C++](https://img.shields.io/badge/-C++-000?&style=for-the-badge&logo=C%2B%2B)
+    ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+    ![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+    ![CSS](https://img.shields.io/badge/-CSS-000?&style=for-the-badge&logo=CSS3)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+    ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript)
+    ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+    ![Java](https://img.shields.io/badge/-Java-000?&style=for-the-badge&logo=Java)
+    ![Bash](https://img.shields.io/badge/-Bash-000?&style=for-the-badge&logo=GNU-Bash)
+  </tr>
+
+  <tr>
+    <b>Frameworks / Libraries</b><br/>
+    ![React.js](https://img.shields.io/badge/-React.js-000?&style=for-the-badge&logo=React)
+    ![Node.js](https://img.shields.io/badge/-Node.js-000?&style=for-the-badge&logo=Node.js)
+    ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&style=for-the-badge&logo=Spring)
+    ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&style=for-the-badge&logo=GraphQL)
+    ![REST APIs](https://img.shields.io/badge/-REST%20APIs-000?&style=for-the-badge)
+    ![Kafka](https://img.shields.io/badge/-Kafka-000?&style=for-the-badge&logo=apache-kafka)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&style=for-the-badge&logo=MongoDB)
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&style=for-the-badge&logo=PostgreSQL)
+    ![MySQL](https://img.shields.io/badge/-MySQL-000?&style=for-the-badge&logo=MySQL)
+    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&style=for-the-badge&logo=Tailwind-CSS)
+  </tr>
+
+  <tr>
+    <b>Dev Tools</b><br/>
+    ![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
+    ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?&style=for-the-badge&logo=github-actions)
+    ![Postman](https://img.shields.io/badge/-Postman-000?&style=for-the-badge&logo=Postman)
+    ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&style=for-the-badge&logo=Visual-Studio-Code)
+    ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&style=for-the-badge&logo=Eclipse)
+    ![Git](https://img.shields.io/badge/-Git-000?&style=for-the-badge&logo=Git)
+  </tr>
+
+  <tr>
+    <b>Cloud / OS</b><br/>
+    ![AWS](https://img.shields.io/badge/-AWS-000?&style=for-the-badge&logo=Amazon-AWS)
+    ![Linux](https://img.shields.io/badge/-Linux-000?&style=for-the-badge&logo=Linux)
+    ![Windows](https://img.shields.io/badge/-Windows-000?&style=for-the-badge&logo=Windows)
+    ![MacOS](https://img.shields.io/badge/-macOS-000?&style=for-the-badge&logo=Apple)
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Light--Dark-000?style=for-the-badge&logo=github&logoColor=white" alt="Theme Toggle Badge"/>
+</p>
+
+<br/>
+<p align="center">
+  <b>See you back soon! 🚀</b>
+</p>
