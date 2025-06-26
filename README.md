@@ -55,13 +55,13 @@
   </h2>
   <p>
     <a href="mailto:rkshashank21@gmail.com">
-      <img src="https://img.shields.io/badge/aishwaryamensinkai@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aishwaryamensinkai@gmail.com" alt="aishwaryamensinkai@gmail.com" />
+      <img src="https://img.shields.io/badge/rkshashank21@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rkshashank21@gmail.com" alt="rkshashank21@gmail.com" />
     </a>
     <a href="https://www.linkedin.com/in/Shashank Ramesh Kumar/">
-      <img src="https://img.shields.io/badge/aishwarya--mensinkai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-mensinkai/" alt="aishwarya-mensinkai" />
+      <img src="https://img.shields.io/badge/Shashank-Ramesh-Kumar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shashankrameshkumar/" alt="shashankrameshkumar" />
     </a>
     <a href="https://github.com/ShashankRKumar">
-      <img src="https://img.shields.io/badge/aishwaryamensinkai-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/aishwaryamensinkai" alt="aishwaryamensinkai" />
+      <img src="https://img.shields.io/badge/ShashankRKumar-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ShashankRKumar" alt="shashankrkumar" />
     </a>
     <br/>
   </p>
