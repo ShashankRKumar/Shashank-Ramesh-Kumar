@@ -1,18 +1,133 @@
-# 💫 About Me:
-🔭 I’m currently working on: Passionate Full Stack Software Engineer with expertise in React, Node.js, TypeScript, C++, and scalable system design. I thrive in high-pressure environments, tackling complex engineering challenges and building high-performance applications.
-<br> <br> 👯 I’m looking to collaborate on: Innovative projects in full-stack development, cloud computing, distributed systems, and AI-driven applications. <br><br>🤝 I’m looking for help with: Connecting with like-minded engineers, mentors, and industry leaders to grow, learn, and explore new opportunities. <br><br>🌱 I’m currently learning: Advanced systems design, large-scale distributed systems, and deep-diving into cloud-native architectures and AI related Technologies<br><br> 💬 Ask me about: Building scalable web apps, performance optimization, API development, cloud computing, and strategies for handling high-pressure situations. <br> <br>⚡ Fun fact: I love solving complex problems, but when I’m not coding, you’ll find me exploring new tech trends, gaming, or diving into outdoor adventures!
+<h1 align="center">
+  Greeting!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
+<div align="center">
+  <table style="width:100%" >
+    <tr>
+      <td align="center">
+        Looks like my website accidentally became the hottest spot in
+        town, even your visitor count decided to swing by for a party!
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://profile-counter.glitch.me/ShashankRKumar/count.svg" alt="" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_i_am_rk/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashankrameshkumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkshashank21@gmail.com) 
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'm+Shashank+Ramesh+Kumar" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShashankRKumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankRKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
+  As a full-stack engineer, I'm deeply passionate about coding, driven by curiosity, exploring new technologies,and honing skills.
+  <br/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=ShashankRKumar&icon=0&color=0)](https://visitcount.itsvg.in)
+<p style="margin-bottom: 0px !important; margin-top: 0px !important; ">
+  💻 &nbsp; My tech passion drives me to share insights through presentations, leadership, and tech community discussions.
+  <br/>
+  🌍 &nbsp; Travel fuels my creativity, exposing me to diverse cultures & landscapes that inspire both my personal & professional life.
+  <br/>
+  🌟 &nbsp; These interests converge to shape a holistic perspective, fueling continuous growth in both technological realms.
+  <br/>
+  <div align="center">
+  </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+<h3 align="center">
+  <b>
+    Looking forward to inspiring conversations and perhaps collaborating on something groundbreaking!
+  </b>
+</h3>
+
+<div align="center">
+  <h2>
+    Reach out to me on the web
+  </h2>
+  <p>
+    <a href="mailto:rkshashank21@gmail.com">
+      <img src="https://img.shields.io/badge/aishwaryamensinkai@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aishwaryamensinkai@gmail.com" alt="aishwaryamensinkai@gmail.com" />
+    </a>
+    <a href="https://www.linkedin.com/in/Shashank Ramesh Kumar/">
+      <img src="https://img.shields.io/badge/aishwarya--mensinkai-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-mensinkai/" alt="aishwarya-mensinkai" />
+    </a>
+    <a href="https://github.com/ShashankRKumar">
+      <img src="https://img.shields.io/badge/aishwaryamensinkai-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/aishwaryamensinkai" alt="aishwaryamensinkai" />
+    </a>
+    <br/>
+  </p>
+
+  <h2>Skills</h2>
+
+<div align="justify">
+<table>
+  <tr>
+    <b>Programming Languages</b>
+
+![C](https://img.shields.io/badge/-C-000?&style=for-the-badge&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&style=for-the-badge&logo=C%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&style=for-the-badge&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&style=for-the-badge&logo=Java)
+
+  </tr>
+  <tr>
+    <b>Frameworks</b>
+
+![React.js](https://img.shields.io/badge/-React.js-000?&style=for-the-badge&logo=React)
+![Angular.js](https://img.shields.io/badge/-Angular.js-000?&style=for-the-badge&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&style=for-the-badge&logo=Node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&style=for-the-badge&logo=Flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&style=for-the-badge&logo=Firebase)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000?&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&style=for-the-badge&logo=GraphQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&style=for-the-badge&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&style=for-the-badge&logo=MySQL)
+![Swift UI](https://img.shields.io/badge/-Swift%20UI-000?&style=for-the-badge&logo=Swift)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&style=for-the-badge&logo=PostgreSQL)
+
+  </tr>
+  <tr>
+    <b>Software</b>
+
+![Office](https://img.shields.io/badge/-Office-000?&style=for-the-badge&logo=Microsoft%20Office)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&style=for-the-badge&logo=Visual%20Studio%20Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&style=for-the-badge&logo=Postman)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&style=for-the-badge&logo=Eclipse)
+![Git](https://img.shields.io/badge/-Git-000?&style=for-the-badge&logo=Git)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&style=for-the-badge&logo=WordPress)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&style=for-the-badge&logo=Spring)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&style=for-the-badge&logo=Gradle)
+![Xcode](https://img.shields.io/badge/-Xcode-000?&style=for-the-badge&logo=Xcode)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&style=for-the-badge&logo=Android)
+![Figma](https://img.shields.io/badge/-Figma-000?&style=for-the-badge&logo=Figma)
+
+  </tr>
+
+  <tr>
+    <b>Operating Systems</b>
+
+![Linux](https://img.shields.io/badge/-Linux-000?&style=for-the-badge&logo=Linux)
+![Windows 10](https://img.shields.io/badge/-Windows%2010-000?&style=for-the-badge&logo=Windows)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-000?&style=for-the-badge&logo=Apple)
+
+  </tr>
+</table>
+</div>
+
+</div>
+
+See you back soon!!
